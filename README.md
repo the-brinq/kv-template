@@ -1,3 +1,6 @@
+# Staging
+[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://dash.staging.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=)
+
 # To-Do List App
 
 ![To-Do List Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/923473bc-a285-487c-93db-e0ddea3d3700/public)
