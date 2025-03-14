@@ -1,5 +1,5 @@
 # Staging
-[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://dash.staging.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=)
+[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://dash.staging.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https%3A%2F%2Fgithub.com%2Fthe-brinq%2Fkv-template)
 
 # To-Do List App
 
